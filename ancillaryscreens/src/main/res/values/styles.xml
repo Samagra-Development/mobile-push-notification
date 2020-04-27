@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--Material theme attributes-->
+
+        <item name="android:scrollbarSize">1.75mm</item>
+        <item name="android:scrollbarAlwaysDrawVerticalTrack">true</item>
+        <item name="android:fadeScrollbars">false</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:tintMode" tools:targetApi="21">src_in</item>
+    </style>
+
+    <style name="AppTheme.ToolBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

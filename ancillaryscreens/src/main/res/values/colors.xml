@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15491B</color>
+    <color name="colorPrimaryDark">#0e2f12</color>
+    <color name="colorAccent">#448AFF</color>
+    <color name="appBlue">#303765</color>
+
+    <color name="primary_light">#C5CAE9</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="button_colors">#30b5ae</color>
+    <color name="disable_button_colors">#cbecea</color>
+</resources>

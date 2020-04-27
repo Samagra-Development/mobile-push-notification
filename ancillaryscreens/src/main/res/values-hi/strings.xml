@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">AncillaryScreens</string>
+    <string name="fusionauth_api_key" translatable="false">YFpyHxhW0-NoKRwQrXgCU5QIAQq8nBNhE--i5_n3pTU</string>
+    <string name="profile_contact_message" translatable="false"> इन निम्नलिखित क्षेत्रों को अपडेट नहीं किया जा सकता है। यदि कोई समस्या है, तो एडमिन से संपर्क करें</string>
+    <string name="login"> लॉग इन</string>
+    <string name="helpline">हेल्पलाइन</string>
+    <string name="forgot_password"> पासवर्ड भूल गए?</string>
+    <string name="reset_password">पासवर्ड रीसेट</string>
+    <string name="oh_no"> अरे नहीं ! </string>
+    <string name="unexpected_error_occured"> कुछ गलत हो गया है ..</string>
+    <string name="let_s_start_again"> आएँ दोबारा शुरू करें</string>
+    <string name="account_name">ई-संवाद इंचार्ज का नाम </string>
+    <string name="name">नाम</string>
+    <string name="contact_number_please_note_that_this_number_will_be_used_for_sending_otp_for_password_reset"> ई-संवाद इंचार्ज का मोबाइल नंबर जिस पर पासवर्ड रिसेट के लिए ओ.टी.पी भेजा जाएगा </string>
+    <string name="official"> ई-संवाद इंचार्ज का ईमेल </string>
+    <string name="date_of_joining">Date of Joining</string>
+    <string name="full_time">Full time</string>
+    <string name="category">Category</string>
+    <string name="username"> यूजर का नाम</string>
+    <string name="udise"> यूजर का नाम (यूडाइस)</string>
+    <string name="school"> स्कूल </string>
+    <string name="otp"> ओ.टी.पी </string>
+    <string name="password"> पासवर्ड </string>
+    <string name="confirm_password"> पासवर्ड की पुष्टि कीजिये </string>
+    <string name="submit"> सबमिट </string>
+    <string name="unable_to_log_out"> लोग आउट नहीं हो रहा </string>
+    <string name="incorrect_credentials"> यूजरनाम और पासवर्ड का मेल नहीं हुआ, पुनः कोशिश करें.</string>
+    <string name="not_connected_to_internet"> ऐसा प्रतीत होता है कि आप इन्टरनेट से जुड़े नहीं हैं, कृपया मोबाइल डाटा को ऑन करें.</string>
+    <string name="empty_username"> यूजर का नाम लिखें </string>
+    <string name="username_less_than_3"> यूजर के नाम में कम से कम 3 अक्षर होते हैं </string>
+    <string name="empty_password"> पासवर्ड लिखें </string>
+    <string name="pass_less_than_8_error"> कम से कम 8 अक्षरों का पासवर्ड सेट करें</string>
+    <string name="set_new_password"> नया पासवर्ड सेट करें </string>
+    <string name="pass_did_not_match"> पासवर्ड नहीं मिले</string>
+    <string name="pass_changed_redirecting"> नया पासवर्ड सेट हो गया है </string>
+    <string name="pass_change_successful"> नया पासवर्ड सेट हो गया है. दोबारा लॉगिन करें. </string>
+    <string name="error_in_change_pass"> सर्वर में समस्या आ रही है.पुनः कोशिश करें.</string>
+    <string name="internet_not_connected"> ऐसा प्रतीत होता है कि आप इन्टरनेट से जुड़े नहीं हैं, कृपया मोबाइल डाटा को ऑन करें </string>
+    <string name="sending_otp"> OTP भेज रहें हैं</string>
+    <string name="error_sending_otp"> OTP नहीं भेज पा रहे हैं.एडमिन से संपर्क करें.</string>
+    <string name="no_internet_2"> मोबाइल डाटा को ऑन करें </string>
+    <string name="updating_user_profile"> प्रोफाइल अपडेट हो रहा है.... </string>
+    <string name="both_cannot_change_at_same_time">मोबाइल नंबर और ईमेल ID एक साथ नहीं बदल सकते. एक एक करके कोशिश करें. </string>
+    <string name="successful_update"> यूजर का विवरण अपडेट हो गया है</string>
+    <string name="invalid_phone_number"> सही मोबाइल नंबर लिखें</string>
+    <string name="invalid_email"> सही ईमेल ID लिखें </string>
+    <string name="enrollment"> यूडाइस में एनरोलमेंट </string>
+    <string name="please_enter_the_otp_sent_to_the_mobile_number_of_school_incharge">कृपया विद्यालय प्रभारी के मोबाइल नंबर पर भेजा गया ओटीपी भेजें|</string>
+    <string name="seconds_remaining">सेकंड बचे हैं: </string>
+    <string name="mulitple_users_same_phone_found">समान संपर्क नंबर वाले एकाधिक उपयोगकर्ता मिले। कृपया सुनिश्चित करें कि उसी संपर्क नंबर का उपयोग अन्य खातों द्वारा नहीं किया गया है। कृपया व्यवस्थापक से संपर्क करें</string>
+    <string name="mulitple_users_same_email_found">एक ही ईमेल वाले एकाधिक उपयोगकर्ता मिले। कृपया सुनिश्चित करें कि उसी ईमेल का उपयोग अन्य खातों द्वारा नहीं किया गया है। कृपया व्यवस्थापक से संपर्क करें</string>
+    <string-array name="category_of_user_shiksha_sathi">
+        <item>Not Applicable</item>
+        <item>Additional Charge</item>
+        <item>Stopgap Arrangement (BRCCs)</item>
+    </string-array>
+    <string name="update_cancel_1">ऐप पर भाषा को अपडेट करने के लिए, भाषा का चयन करें और अपडेट पर क्लिक करें या वापस जाने के लिए रद्द करें पर क्लिक करें।</string>
+    <string name="update_cancel_2">यदि आप अपडेट पर क्लिक करते हैं, तो ऐप बंद हो जाएगा। नई भाषा में शुरू करने के लिए आपको फिर से ऐप को खोलना होगा।</string>
+    <string name="forgot_pass">पासवर्ड भूल गए</string>
+    <string name="update_failed_due_to_internet">उपयोगकर्ता विवरण अपडेट करने में विफल रहे। कृपया अपना इंटरनेट जांचें</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="send_otp">ओटीपी भेजें</string>
+    <string name="less_than_8_pass">पासवर्ड 8 अंग्रेजी वर्णों से कम नहीं हो सकता</string>
+    <string name="pass_cannot_be_empty">पासवर्ड खाली नहीं हो सकता</string>
+</resources>

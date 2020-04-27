@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">AncillaryScreens</string>
+    <string name="fusionauth_api_key" translatable="false">c0VY85LRCYnsk64xrjdXNVFFJ3ziTJ91r08Cm0Pcjbc</string>
+    <string name="profile_contact_message" translatable="false">These following fields cannot be updated. In case there is any issue, contact admin.</string>
+    <string name="login">Login</string>
+    <string name="helpline" tools:ignore="MissingTranslation">HELPLINE</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="oh_no">Oh no!</string>
+    <string name="unexpected_error_occured">Something unexpected has occurred.</string>
+    <string name="let_s_start_again">Let\'s Start Again</string>
+    <string name="account_name">School in-charge name</string>
+    <string name="name">Name</string>
+    <string name="contact_number_please_note_that_this_number_will_be_used_for_sending_otp_for_password_reset">School in-charge contact number - Please note that this number will be used for sending OTP for password reset.</string>
+    <string name="official">School in-charge email</string>
+    <string name="date_of_joining">Date of Joining</string>
+    <string name="full_time">Full time</string>
+    <string name="category">Category</string>
+    <string name="username">Username</string>
+    <string name="udise">Username (UDISE)</string>
+    <string name="school">SCHOOL</string>
+    <string name="otp">OTP</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="unable_to_log_out">Unable to Log you out, Some error occurred.</string>
+    <string name="incorrect_credentials">Username or Password didn\'t match. Please try again</string>
+    <string name="not_connected_to_internet">It seems you are not connected to the Internet. Please switch on your Mobile Data to login.</string>
+    <string name="empty_username">Username cannot be empty</string>
+    <string name="username_less_than_3">Username has to be 3 or more characters</string>
+    <string name="empty_password">Password cannot be empty</string>
+    <string name="pass_less_than_8_error">Password has to be at least 8 characters</string>
+    <string name="set_new_password">Set New Password</string>
+    <string name="pass_did_not_match">Passwords didn\'t match.</string>
+    <string name="pass_changed_redirecting">The password has been successfully changed. Redirecting you to profile page</string>
+    <string name="pass_change_successful">The password has been successfully changed. You need to login again to continue. Redirecting you to login page</string>
+    <string name="error_in_change_pass">The server responded with an error. Please retry again</string>
+    <string name="internet_not_connected">It seems you are not connected to the internet. Please switch on your mobile data to change password.</string>
+    <string name="sending_otp">Sending OTP</string>
+    <string name="error_sending_otp">Error sending OTP. Please contact admin</string>
+    <string name="no_internet_2">It seems you are not connected to internet. Please check.</string>
+    <string name="updating_user_profile">Updating User Profile...</string>
+    <string name="both_cannot_change_at_same_time">Both Phone number and email cannot change at the same time. Please try with one first.</string>
+    <string name="successful_update">User Details successfully updated.</string>
+    <string name="invalid_phone_number">Invalid Phone Number</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="please_enter_the_otp_sent_to_the_mobile_number_of_school_incharge">Please enter the OTP sent to the mobile number of school incharge.</string>
+    <string name="enrollment">Enrolment as per UDISE</string>
+    <string name="seconds_remaining">Seconds Remaining: </string>
+    <string name="invalid_mobile">The mobile number is invalid. Please enter a valid mobile number.</string>
+    <string name="mulitple_users_same_phone_found">Multiple users with the same phone number found. Please ensure that your contact number is not used by any other account or Contact Admin.</string>
+    <string name="mulitple_users_same_email_found">Multiple users with the same email found. Please ensure that your email is not used by any other account or Contact Admin.</string>
+    <string name="forgot_pass">Forgot password</string>
+    <string name="update_failed_due_to_internet">User details failed to update. Please check your internet!</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="less_than_8_pass">Password cannot be less than 8 characters</string>
+    <string name="pass_cannot_be_empty">Password cannot be empty</string>
+    <string-array name="category_of_user_shiksha_sathi">
+        <item>Not Applicable</item>
+        <item>Additional Charge</item>
+        <item>Stopgap Arrangement (BRCCs)</item>
+    </string-array>
+
+</resources>
