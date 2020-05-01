@@ -12,8 +12,6 @@ android {
         // Testing
         applicationId "com.samagra.demo.samiksha"
 
-        // For Play store
-        // applicationId "com.samagra.shikshaSaathi"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 10000
