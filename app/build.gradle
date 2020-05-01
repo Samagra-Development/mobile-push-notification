@@ -2,7 +2,6 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-android'
 apply plugin: 'com.google.gms.google-services'
-apply plugin: 'io.sentry.android.gradle'
 /*apply plugin: 'io.fabric'*/
 
 android {
@@ -24,10 +23,6 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            buildConfigField 'String', "dsn", "\"https://3ddc3068fd3e41ddb65f400c22a05b43@bugs.samagra.io/8\""
-        }
-        debug {
-            buildConfigField 'String', "dsn", "\"https://3ddc3068fd3e41ddb65f400c22a05b43@bugs.samagra.io/8\""
         }
     }
 
@@ -35,11 +30,6 @@ android {
         sourceCompatibility 1.8
         targetCompatibility 1.8
         incremental true
-    }
-
-    sentry {
-        autoUpload true
-        autoProguardConfig true
     }
 
 }
